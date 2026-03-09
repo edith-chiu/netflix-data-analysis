@@ -1,4 +1,4 @@
-# netflix-data-analysis
+# Netflix-Data-Analysis
 ## Interactive Power BI dashboard analysing streaming platform content trends, genre distribution, and release patterns.
 
 This project demonstrates data modelling, trend analysis, and dashboard development using Power BI to explore insights within streaming platform content datasets.

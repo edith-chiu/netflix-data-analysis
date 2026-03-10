@@ -6,6 +6,7 @@ This project demonstrates data modelling, trend analysis, and dashboard developm
 ## View Interactive Dashboard:
 https://app.powerbi.com/links/iFfhI5fxy2?ctid=bd697c1b-c481-479c-841e-c618542675c3&pbi_source=linkShare
 
+![Dashboard Preview](streaming_dashboard_pic.jpg)
 
 
 ## Project Overview
